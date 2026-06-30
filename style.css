@@ -31,3 +31,31 @@
 }
 
 
+.tab {
+    
+    border: 8px solid green;
+    padding: 20px;
+}
+
+.tab0{
+    font-size: 30px;
+}
+
+.tab1{
+    font-size: 30px;
+}
+
+.tab2{
+    font-size: 30px;
+}
+
+.tab3{
+    font-size: 30px;
+}
+.tab4{
+    font-size: 30px;
+}
+
+.tab5{
+    font-size: 30px;
+}
